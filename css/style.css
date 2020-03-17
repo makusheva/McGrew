@@ -210,24 +210,17 @@ button{
   .slider {
     height: 100% !important;
     justify-content: center !important;
-    align-items: flex-end !important;
+    align-items: center !important;
     z-index: 99;
+    padding-top: 220px;
   }
  .content-slider{
   margin-top: auto !important;
-  margin-bottom: -60px ;
   justify-content: center !important;
   width: 100%;
   display: flex;
  }
 
-.slick-slide img {
-  margin-top: 140px;
-  height: 100%;
-}
-.slick-list {
-  overflow: visible !important;
-}
 .slick-initialized, .slick-slide{
   display: flex !important;
 }
