@@ -198,7 +198,7 @@ button{
 }
 
 .home-support{
-  background-image: url(/images/sliderbcg.jpg);
+  background-image: url(../images/sliderbcg.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -236,7 +236,7 @@ button{
   display: flex;
 }
 .team-img{
-  background-image: url(/images/Picture.jpg);
+  background-image: url(../images/Picture.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
