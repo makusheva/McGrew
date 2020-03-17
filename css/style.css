@@ -143,7 +143,7 @@ button{
 .age{
   min-height: 500px;
   background-color: #00b5d2;
-  background-image: url(/images/people.png);
+  background-image: url(../images/people.png);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: contain;
